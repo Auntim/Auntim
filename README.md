@@ -1,10 +1,10 @@
 
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=FL0IilUjbGpXG4IFB0nHsTv-IiWhuFaEz8eG040T1sw)
 
 <h1 align="center">Hi 👋, I'm Auntim Hossen Saikat</h1>
 <h3 align="center">A passionate Junior Frontend Developer from Bangladesh</h3>
 
-<img align="" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I0bjN6eGRuOWtoZTF4aHo1ZWozYjdndmpsZjd3cWE3Znp1d3hleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auntim&label=Profile%20views&color=0e75b6&style=flat" alt="auntim" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Pat Adoption Application](https://pet-adoption-f71aa.web.app/)
 
-- 🌱 I’m currently learning **React Native,Naxt.js,NextAuth etc**
+- 🌱 I’m currently learning **React,Naxt.js,NextAuth etc**
 
 - 👨‍💻 All of my projects are available at [https://auntim-personal-portfolio.netlify.app/](https://auntim-personal-portfolio.netlify.app/)
 
