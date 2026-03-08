@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React,Naxt.js,NextAuth etc**
 
-- 👨‍💻 All of my projects are available at [https://auntim-saikat.netlify.app/](https://auntim-saikat.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-26jq.vercel.app/](https://new-portfolio-26jq.vercel.app/)
 
 - 📫 How to reach me **hossennull@gmail.com**
 
